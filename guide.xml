@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redeamazonica.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tv Aparecida">
+    <display-name lang="pt">Tv Aparecida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <icon src="http://www.lineup.tv.br/canais/eurochannel.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvitaituba.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvinformativo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <icon src="http://www.lineup.tv.br/canais/koce.gif|http://www.lineup.tv.br/canais/pbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="NatGeo Kids">
+    <display-name lang="pt">NatGeo Kids</display-name>
+    <icon src="http://www.lineup.tv.br/canais/wgcb.gif|http://www.lineup.tv.br/canais/cozi.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <icon src="http://www.lineup.tv.br/canais/telecinecult.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Gloob ">
+    <display-name lang="pt">Gloob</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-sorocaba.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
